@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AprilTag_Detection"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\usr\local\lib\cmake\opencv4\;CMake Files\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\usr\lib\cmake\;CMake Files\..\..\..\..\usr\lib\cmake\eigen3\;CMake Files\..\..\..\..\usr\lib\cmake\fmt\;CMake Files\StereoMV\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="run">
+				<Option output="/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/run" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/guanrenyang/CLionProjects/AprilTag-Detection/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/home/guanrenyang/CLionProjects/AprilTag-Detection/StereoMV/include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 run"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="run/fast">
+				<Option output="/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/run" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/guanrenyang/CLionProjects/AprilTag-Detection/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/home/guanrenyang/CLionProjects/AprilTag-Detection/StereoMV/include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 run/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="serial">
+				<Option output="/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/libserial.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/guanrenyang/CLionProjects/AprilTag-Detection/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/home/guanrenyang/CLionProjects/AprilTag-Detection/StereoMV/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 serial"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="serial/fast">
+				<Option output="/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/libserial.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/guanrenyang/CLionProjects/AprilTag-Detection/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/home/guanrenyang/CLionProjects/AprilTag-Detection/StereoMV/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 serial/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StereoMV">
+				<Option output="/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/StereoMV/libStereoMV.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/StereoMV"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/guanrenyang/CLionProjects/AprilTag-Detection/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/home/guanrenyang/CLionProjects/AprilTag-Detection/StereoMV/include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/StereoMV/Makefile&quot;  VERBOSE=1 StereoMV"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/StereoMV/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/StereoMV/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/StereoMV/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StereoMV/fast">
+				<Option output="/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/StereoMV/libStereoMV.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/StereoMV"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/guanrenyang/CLionProjects/AprilTag-Detection/include"/>
+					<Add directory="/usr/include/eigen3"/>
+					<Add directory="/home/guanrenyang/CLionProjects/AprilTag-Detection/StereoMV/include"/>
+					<Add directory="/usr/local/include/opencv4"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/StereoMV/Makefile&quot;  VERBOSE=1 StereoMV/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/StereoMV/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/StereoMV/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/guanrenyang/CLionProjects/AprilTag-Detection/cmake-build-debug/StereoMV/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/StereoMV/src/MindVision.cpp">
+			<Option target="StereoMV"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/main.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/src/impl/list_ports/list_ports_linux.cc">
+			<Option target="serial"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/src/impl/list_ports/list_ports_osx.cc">
+			<Option target="serial"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/src/impl/list_ports/list_ports_win.cc">
+			<Option target="serial"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/src/impl/unix.cc">
+			<Option target="serial"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/src/impl/win.cc">
+			<Option target="serial"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/src/serial.cc">
+			<Option target="serial"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/../../../../usr/local/lib/cmake/opencv4/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/../../../../usr/local/lib/cmake/opencv4/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/../../../../usr/local/lib/cmake/opencv4/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/../../../../usr/local/lib/cmake/opencv4/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\opencv4\"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/../../../../usr/lib/cmake/eigen3/Eigen3Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\cmake\eigen3\"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/../../../../usr/lib/cmake/eigen3/Eigen3ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\cmake\eigen3\"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/../../../../usr/lib/cmake/eigen3/Eigen3Targets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\cmake\eigen3\"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/../../../../usr/lib/cmake/fmt/fmt-config-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\cmake\fmt\"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/../../../../usr/lib/cmake/fmt/fmt-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\cmake\fmt\"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/../../../../usr/lib/cmake/fmt/fmt-targets-none.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\cmake\fmt\"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/../../../../usr/lib/cmake/fmt/fmt-targets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\cmake\fmt\"/>
+		</Unit>
+		<Unit filename="/home/guanrenyang/CLionProjects/AprilTag-Detection/StereoMV/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\StereoMV\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
