@@ -1,0 +1,8 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/guanrenyang/CLionProjects/CV-AutoInfantry/AprilTag-Detection
+-- Boost version: 1.65.1
+-- Found the following Boost libraries:
+--   system
+--   timer
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/guanrenyang/CLionProjects/CV-AutoInfantry/AprilTag-Detection/cmake-build-debug

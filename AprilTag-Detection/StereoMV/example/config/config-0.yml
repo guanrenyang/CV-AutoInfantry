@@ -1,0 +1,4 @@
+%YAML:1.0
+---
+camera_name: "0-0"
+camera_config: "../../example/config/MV-SUA133GC-0-0.Config"
