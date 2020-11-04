@@ -1,7 +1,0 @@
-/home/guanrenyang/CLionProjects/CV-AutoInfantry/AprilTag-Detection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/guanrenyang/CLionProjects/CV-AutoInfantry/AprilTag-Detection/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/guanrenyang/CLionProjects/CV-AutoInfantry/AprilTag-Detection/cmake-build-debug/CMakeFiles/serial.dir
-/home/guanrenyang/CLionProjects/CV-AutoInfantry/AprilTag-Detection/cmake-build-debug/CMakeFiles/run.dir
-/home/guanrenyang/CLionProjects/CV-AutoInfantry/AprilTag-Detection/cmake-build-debug/StereoMV/CMakeFiles/rebuild_cache.dir
-/home/guanrenyang/CLionProjects/CV-AutoInfantry/AprilTag-Detection/cmake-build-debug/StereoMV/CMakeFiles/StereoMV.dir
-/home/guanrenyang/CLionProjects/CV-AutoInfantry/AprilTag-Detection/cmake-build-debug/StereoMV/CMakeFiles/edit_cache.dir
